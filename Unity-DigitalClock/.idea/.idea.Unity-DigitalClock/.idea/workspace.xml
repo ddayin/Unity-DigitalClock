@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af2d9cf0-badb-4221-ad0d-b55fbf3ac376" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Images/rocco-caruso-9UD_BuPqh5g-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/rocco-caruso-9UD_BuPqh5g-unsplash.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BackgroundImage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-DigitalClock/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-DigitalClock/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-DigitalClock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-DigitalClock/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/FullscreenClock.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/FullscreenClock.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Application.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Application.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +20,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundImage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Clock.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://D:/ReferenceUnity/UnityClock/Clock/Assets/Clock.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -20,15 +28,19 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/Clock.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Application.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundImage.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1q0hzGZFLYjB9xFWnknejpiVr6C" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -65,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616222680169</updated>
       <workItem from="1616222683916" duration="783000" />
-      <workItem from="1616223533291" duration="2743000" />
+      <workItem from="1616223533291" duration="5505000" />
     </task>
     <servers />
   </component>
@@ -87,6 +99,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>

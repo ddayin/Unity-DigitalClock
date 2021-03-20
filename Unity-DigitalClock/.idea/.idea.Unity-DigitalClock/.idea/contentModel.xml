@@ -6,6 +6,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="Application.cs" t="Include" />
+          <e p="BackgroundImage.cs" t="Include" />
           <e p="Clock.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">

@@ -7,6 +7,8 @@ public class Application : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Screen.orientation = ScreenOrientation.LandscapeRight;
+        
         // Disable screen dimming
         Screen.sleepTimeout = SleepTimeout.NeverSleep;
         

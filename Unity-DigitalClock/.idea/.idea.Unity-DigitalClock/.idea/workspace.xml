@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af2d9cf0-badb-4221-ad0d-b55fbf3ac376" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-DigitalClock/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-DigitalClock/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-DigitalClock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-DigitalClock/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/FullscreenClock.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/FullscreenClock.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Application.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Application.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +18,8 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts/Application.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Clock.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Application.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1q0hzGZFLYjB9xFWnknejpiVr6C" />
@@ -69,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616222680169</updated>
       <workItem from="1616222683916" duration="783000" />
-      <workItem from="1616223533291" duration="2137000" />
+      <workItem from="1616223533291" duration="2743000" />
     </task>
     <servers />
   </component>
